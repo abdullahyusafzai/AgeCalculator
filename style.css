@@ -1,0 +1,50 @@
+.agecal{
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    width: 400px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    padding-bottom: 45px;
+    font-family: sans-serif;
+    border-radius: 15px;
+    border: 3px solid black;
+    background: #a2beeb;
+}
+.age{
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+  width: 400px;
+  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  padding-bottom: 45px;
+  font-family: sans-serif;
+  border-radius: 15px;
+  /* border: 3px solid black; */
+  background: #a2beeb;
+}
+.agecal label{
+  font-weight: bolder;
+}
+button{
+    background-color: #adb5e0; /* Green */
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: inherit;
+    display: inline-block;
+    font-size: 16px;
+}
+footer{
+  border: 2px solid black;
+  margin: 25px 25px 25px 25px;
+  background-color: #afdbbc;
+  text-align: center;
+  font-style: oblique;
+  font-weight: bold;
+}
